@@ -1,3 +1,21 @@
-body{
-  background-color: orange;
+.container {
+  margin: auto;
+  background-color: red;
+  width: 800px;
+}
+
+.phoneimage{
+  height: 200px;
+  width: 450px;
+  display: inline-block;
+  background-color: green;
+  margin: 0px;
+}
+
+.signupform{
+  height: 200px;
+  width: 346px;
+  display: inline-block;
+  background-color: blue;
+  margin: 0px;
 }
